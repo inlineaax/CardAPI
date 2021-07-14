@@ -40,4 +40,4 @@ para estudar e consegui esse resultado! Isso é muito motivador! Com certeza ire
 Terminei um bootcamp a pouco tempo pelo IGTI onde tive ótimas aulas de Java, consegui aproveitar bastante o conteúdo, isso me ajudou muito a entender 
 mais rapidamente a linguagem c#. Tive a agradável surpresa de conhecer o POSTMAN e ainda o primeiro contato com o EntityFramework que parece facilitar
 bastante as interações com o banco de dados. 
-Tentei implementar ainda o Swagger como sugeria na documentação que achei, mas sem sucesso. Irei ler mais sobre para poder aplicar futuramente!
+
